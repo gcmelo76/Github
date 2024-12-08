@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm currently learning backend development with Java and frameworks like Spring<br>💡 I'm looking for help with optimizing database queries and understanding Spring best practises<br>💬 Ask me about my experience with databases and deployment on AWS<br>⚡ I’m passionate about solving real-world problems through technology
+📚 I'm currently learning backend development with Java, Python and frameworks like Spring, Flask<br>💡 I'm looking for help with optimizing database queries and understanding Spring best practises<br>💬 Ask me about my experience with databases and deployment on AWS<br>⚡ I’m passionate about solving real-world problems through technology
 
 
 ## 🌐 Socials:
